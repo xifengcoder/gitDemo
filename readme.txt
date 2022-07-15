@@ -1,1 +1,2 @@
 master A 
+featureA -> C
